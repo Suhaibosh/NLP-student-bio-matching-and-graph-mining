@@ -18,7 +18,7 @@ This project analyzes student bios through natural language processing, similari
   - Applies KMeans, DBSCAN, and Agglomerative Clustering to identify groups of similar students.  
   - Helps discover trends in student interests and skills.
  
-- **Contribution
+- **Contribution**:
 
 Contributions are welcome! Fork the repository, create a new branch, and submit a pull request.
 License
